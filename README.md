@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Software Engineer | .NET</h4>
+<h4 align="left">Computer Engineering Student | Full Stack (.NET & Angular)</h4>
 
 ###
 
