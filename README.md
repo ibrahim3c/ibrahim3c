@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Computer Engineering Student | Full Stack (.NET & Angular)</h4>
+<h4 align="left">Computer Engineering Student | Full Stack (.NET & Angular) | Aspiring DevOps Engineer</h4>
 
 ###
 
@@ -43,6 +43,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo" />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+
 </div>
 
 ###
